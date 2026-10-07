@@ -42,13 +42,13 @@ const Header = () => {
               <div className="header-top-contact">
                 <ul className='anchor d-md-flex'>
                   <li className='px-md-5 fw-bold'>
-                    <a href="tel:+919371304510 fw-bold">
-                      <i className="fas fa-phone-volume text-white"></i> +91 9371304510
+                    <a href="tel:+919359401610 fw-bold">
+                      <i className="fas fa-phone-volume text-white"></i> +91 9359401610
                     </a>
                   </li>
                   <li className='px-md-5 fw-bold'>
-                    <a href="tel:+918379975860 ">
-                      <i className="fas fa-phone-volume text-white"></i> +91 8379975860
+                    <a href="tel:+919822344091 ">
+                      <i className="fas fa-phone-volume text-white"></i> +91 9822344091
                     </a>
                   </li>
                   <li>

@@ -299,8 +299,8 @@ whychoose: [
     const contactData = {
         heading: `${cardData.keyword} Contact Number`,
         contactNumbers: [
-            "+91 9371304510",
-            "+91 8379975860",
+            "+91 9359401610",
+            "+91 9822344091",
 
 
 
@@ -514,7 +514,7 @@ whychoose: [
         <div>
             <UsePageTracking/>
 <Helmet>
-  <title>Pune to Pandharpur Taxi Service | Book Your Cab Online | Call: +91 9371304510</title>
+  <title>Pune to Pandharpur Taxi Service | Book Your Cab Online | Call: +91 9359401610</title>
   <meta
     name="description"
     content="Book reliable and affordable cabs from Pune to Pandharpur for Darshan and other travel. We offer one-way, round-trip, and luxury taxi options."
@@ -742,8 +742,8 @@ whychoose: [
                                             <h4 className=" lead fw-semibold whitt text-dark">Phone Numbers</h4>
                                             <i className="bi bi-telephone-fill fs-1 mb-2"></i>
                                             <div className=''>
-                                                <a href="tel:+91 9371304510" className="d-block  text-white">+91 9371304510</a>
-                                                <a href="tel:+91 8379975860" className="d-block  text-white">+91 8379975860</a>
+                                                <a href="tel:+91 9359401610" className="d-block  text-white">+91 9359401610</a>
+                                                <a href="tel:+91 9822344091" className="d-block  text-white">+91 9822344091</a>
 
 
                                             </div>
@@ -771,7 +771,7 @@ whychoose: [
                                                 <h4 className=" fw-semibold lead whitt text-dark">Address</h4>
                                                 <p className="whit text-white ">
                                                     <i> Morya Cab<br />
-                                                    Flat no. 306 Aasra Crystal Hights, Near Union Bank Dehu Phata Alandi Devachi Pune, Maharashtra 412105
+                                                    Gat no. 763 Jai Ganesh Niwas Flat no. 1 Lokhande Wasti Chimbali Pune, Maharashtra 412105
                                                     </i>
                                                 </p>
                                             </div>

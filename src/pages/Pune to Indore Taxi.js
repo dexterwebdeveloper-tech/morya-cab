@@ -137,7 +137,7 @@ function Punetoindore() {
     },
     {
         "name": "Pune to Indore Taxi Contact Information",
-        "description": "For prompt and reliable Pune to Indore taxi services, contact Morya Cab at +91 9371304510. We ensure a comfortable and stress-free journey. Book your Pune to Indore taxi today!"
+        "description": "For prompt and reliable Pune to Indore taxi services, contact Morya Cab at +91 9359401610. We ensure a comfortable and stress-free journey. Book your Pune to Indore taxi today!"
     }
 ],
 
@@ -280,8 +280,8 @@ whychoose: [
     const contactData = {
         heading: `${cardData.keyword} Contact Number`,
         contactNumbers: [
-            "+91 9371304510",
-            "+91 8379975860",
+            "+91 9359401610",
+            "+91 9822344091",
 
 
 
@@ -443,7 +443,7 @@ whychoose: [
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
         "name": "Morya Cab Services",
-        "description": "Book your Pune to Indore taxi with Morya Cab. Affordable, reliable, and convenient one-way and round-trip taxi services. Call +91 9371304510 for bookings!",
+        "description": "Book your Pune to Indore taxi with Morya Cab. Affordable, reliable, and convenient one-way and round-trip taxi services. Call +91 9359401610 for bookings!",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Office No. 5, First Floor, Sunshine Complex, Near ABC Chowk, Pune",
@@ -452,7 +452,7 @@ whychoose: [
           "postalCode": "411014",
           "addressCountry": "IN"
         },
-        "telephone": "+91-9371304510",
+        "telephone": "+91-9359401610",
         "url": "https://moryacab.com/",
         "logo": "https://moryacab.com/img/logo.jpg",
         "image": [
@@ -514,10 +514,10 @@ whychoose: [
         <div>
             <UsePageTracking/>
  <Helmet>
-        <title>Pune to Indore Taxi | Affordable & Reliable Taxi Services | Call: +91 9371304510</title>
+        <title>Pune to Indore Taxi | Affordable & Reliable Taxi Services | Call: +91 9359401610</title>
         <meta
           name="description"
-          content="Book your Pune to Indore taxi with Morya Cab. Affordable, reliable, and convenient one-way and round-trip taxi services. Call +91 9371304510."
+          content="Book your Pune to Indore taxi with Morya Cab. Affordable, reliable, and convenient one-way and round-trip taxi services. Call +91 9359401610."
         />
         <meta name="keywords" content="Pune to Indore taxi, Pune to Indore cab service, Pune to Indore taxi booking, Pune to Indore one-way taxi, Pune to Indore round trip, Pune to Indore car rental, Pune to Indore taxi fare, Pune to Indore private taxi, Pune to Indore shared taxi" />
         <meta property="og:title" content="Pune to Indore Taxi | Morya Cab Services" />
@@ -737,8 +737,8 @@ whychoose: [
                                             <h4 className=" lead fw-semibold whitt text-dark">Phone Numbers</h4>
                                             <i className="bi bi-telephone-fill fs-1 mb-2"></i>
                                             <div className=''>
-                                                <a href="tel:+91 9371304510" className="d-block  text-white">+91 9371304510</a>
-                                                <a href="tel:+91 8379975860" className="d-block  text-white">+91 8379975860</a>
+                                                <a href="tel:+91 9359401610" className="d-block  text-white">+91 9359401610</a>
+                                                <a href="tel:+91 9822344091" className="d-block  text-white">+91 9822344091</a>
 
 
                                             </div>
@@ -766,7 +766,7 @@ whychoose: [
                                                 <h4 className=" fw-semibold lead whitt text-dark">Address</h4>
                                                 <p className="whit text-white ">
                                                     <i> Morya Cab<br />
-                                                    Flat no. 306 Aasra Crystal Hights, Near Union Bank Dehu Phata Alandi Devachi Pune, Maharashtra 412105
+                                                    Gat no. 763 Jai Ganesh Niwas Flat no. 1 Lokhande Wasti Chimbali Pune, Maharashtra 412105
                                                     </i>
                                                 </p>
                                             </div>

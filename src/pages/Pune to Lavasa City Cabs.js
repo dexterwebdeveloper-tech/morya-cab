@@ -145,7 +145,7 @@ function Punetolavasacity() {
     },
     {
         "name": "Contact Information for Pune to Lavasa Cab Services",
-        "description": "For your Pune to Lavasa trip, contact Morya Cab at +91 9371304510. We offer reliable and comfortable cab services, ensuring a smooth and enjoyable journey. Book your Pune to Lavasa cab today!"
+        "description": "For your Pune to Lavasa trip, contact Morya Cab at +91 9359401610. We offer reliable and comfortable cab services, ensuring a smooth and enjoyable journey. Book your Pune to Lavasa cab today!"
     }
 ]
 ,
@@ -302,8 +302,8 @@ whychoose: [
     const contactData = {
         heading: `${cardData.keyword} Contact Number`,
         contactNumbers: [
-            "+91 9371304510",
-            "+91 8379975860",
+            "+91 9359401610",
+            "+91 9822344091",
 
 
 
@@ -475,7 +475,7 @@ whychoose: [
           "postalCode": "411014",
           "addressCountry": "IN"
         },
-        "telephone": "+91-9371304510",
+        "telephone": "+91-9359401610",
         "url": "https://moryacab.com/pune-to-lavasa-taxi",
         "logo": "https://moryacab.com/img/logo.jpg",
         "image": [
@@ -537,7 +537,7 @@ whychoose: [
         <div>
 <UsePageTracking/>
 <Helmet>
-  <title>Pune to Lavasa Cabs | Reliable & Affordable Taxi Service | Call: +91 9371304510</title>
+  <title>Pune to Lavasa Cabs | Reliable & Affordable Taxi Service | Call: +91 9359401610</title>
   <meta
     name="description"
     content="Book reliable and affordable Pune to Lavasa cab services with Morya Cabs. We offer private cars, chauffeur services, Innova, Tempo Traveller, and more for your journey to Lavasa."
@@ -765,8 +765,8 @@ whychoose: [
                                             <h4 className=" lead fw-semibold whitt text-dark">Phone Numbers</h4>
                                             <i className="bi bi-telephone-fill fs-1 mb-2"></i>
                                             <div className=''>
-                                                <a href="tel:+91 9371304510" className="d-block  text-white">+91 9371304510</a>
-                                                <a href="tel:+91 8379975860" className="d-block  text-white">+91 8379975860</a>
+                                                <a href="tel:+91 9359401610" className="d-block  text-white">+91 9359401610</a>
+                                                <a href="tel:+91 9822344091" className="d-block  text-white">+91 9822344091</a>
 
 
                                             </div>
@@ -794,7 +794,7 @@ whychoose: [
                                                 <h4 className=" fw-semibold lead whitt text-dark">Address</h4>
                                                 <p className="whit text-white ">
                                                     <i> Morya Cab<br />
-                                                    Flat no. 306 Aasra Crystal Hights, Near Union Bank Dehu Phata Alandi Devachi Pune, Maharashtra 412105
+                                                    Gat no. 763 Jai Ganesh Niwas Flat no. 1 Lokhande Wasti Chimbali Pune, Maharashtra 412105
                                                     </i>
                                                 </p>
                                             </div>

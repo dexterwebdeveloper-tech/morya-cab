@@ -8,7 +8,7 @@ const ContactInfo = () => {
 <>
 
 <Helmet>
-        <title>Pune to Mumbai cab | Call: +91 9371304510</title>
+        <title>Pune to Mumbai cab | Call: +91 9359401610</title>
         <meta
           name="description"
           content="Book your reliable Pune to Mumbai taxi service with Morya Cabs. We offer one-way, round trip, luxury taxis, and shared cabs for your comfortable journey."
@@ -45,10 +45,10 @@ const ContactInfo = () => {
               <div className="about-contact-details">
                 <h6 className="box-title colorr">Phone Number</h6>
                 <p className="about-contact-details-text fw-bold">
-                  <a href="tel:+919371304510">+91 9371304510</a>
+                  <a href="tel:+919359401610">+91 9359401610</a>
                 </p> 
                 <p className="about-contact-details-text fw-bold">
-                  <a href="tel:+918379975860">+91 8379975860</a>
+                  <a href="tel:+919822344091">+91 9822344091</a>
                 </p>
               </div>
             </div>
@@ -79,8 +79,8 @@ const ContactInfo = () => {
               <div className="about-contact-details">
                 <h6 className="box-title text-center colorr">Our Address</h6>
                 <h6 className="fw-bold text-center">Morya Cab </h6>
-                <p className="about-contact-details-text">Flat no. 306 Aasra Crystal Hights, Near Union Bank Dehu Phata Alandi Devachi Pune, Maharashtra 412105</p>
-                <p className="about-contact-details-text">Maharashtra 412105</p>
+                <p className="about-contact-details-text">Gat no. 763 Jai Ganesh Niwas Flat no. 1 Lokhande Wasti Chimbali Pune, Maharashtra</p>
+                <p className="about-contact-details-text"> 412105</p>
               </div>
             </div>
           </div>

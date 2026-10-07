@@ -133,7 +133,7 @@ function Punetobanglore() {
     },
     {
         "name": "Pune to Bangalore Taxi Contact Information",
-        "description": "For prompt and reliable Pune to Bangalore taxi services, contact Morya Cab at +91 9371304510. We ensure a comfortable, enjoyable ride every time. Book your Pune to Bangalore taxi today!"
+        "description": "For prompt and reliable Pune to Bangalore taxi services, contact Morya Cab at +91 9359401610. We ensure a comfortable, enjoyable ride every time. Book your Pune to Bangalore taxi today!"
     }
 ],
 
@@ -277,8 +277,8 @@ whychoose: [
     const contactData = {
         heading: `${cardData.keyword} Contact Number`,
         contactNumbers: [
-            "+91 9371304510",
-            "+91 8379975860",
+            "+91 9359401610",
+            "+91 9822344091",
 
 
 
@@ -441,7 +441,7 @@ whychoose: [
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
         "name": "Morya Cab Services",
-        "description": "Book your Pune to Bangalore taxi with Morya Cab. Affordable and reliable one-way and round-trip taxi services, including luxury cabs and shared taxis. Call +91 9371304510 for bookings!",
+        "description": "Book your Pune to Bangalore taxi with Morya Cab. Affordable and reliable one-way and round-trip taxi services, including luxury cabs and shared taxis. Call +91 9359401610 for bookings!",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Office No. 5, First Floor, Sunshine Complex, Near ABC Chowk, Pune",
@@ -450,7 +450,7 @@ whychoose: [
           "postalCode": "411014",
           "addressCountry": "IN"
         },
-        "telephone": "+91-9371304510",
+        "telephone": "+91-9359401610",
         "url": "https://moryacab.com/",
         "logo": "https://moryacab.com/img/logo.jpg",
         "image": [
@@ -511,7 +511,7 @@ whychoose: [
         <div>
             <UsePageTracking/>
 <Helmet>
-        <title>Pune to Bangalore Taxi | Affordable & Reliable Taxi Services | Call: +91 9371304510</title>
+        <title>Pune to Bangalore Taxi | Affordable & Reliable Taxi Services | Call: +91 9359401610</title>
         <meta
           name="description"
           content="Book your Pune to Bangalore taxi with Morya Cab. Affordable and reliable one-way and round-trip taxi services, including luxury cabs and shared taxis."
@@ -734,8 +734,8 @@ whychoose: [
                                             <h4 className=" lead fw-semibold whitt text-dark">Phone Numbers</h4>
                                             <i className="bi bi-telephone-fill fs-1 mb-2"></i>
                                             <div className=''>
-                                                <a href="tel:+91 9371304510" className="d-block  text-white">+91 9371304510</a>
-                                                <a href="tel:+91 8379975860" className="d-block  text-white">+91 8379975860</a>
+                                                <a href="tel:+91 9359401610" className="d-block  text-white">+91 9359401610</a>
+                                                <a href="tel:+91 9822344091" className="d-block  text-white">+91 9822344091</a>
 
 
                                             </div>
@@ -763,7 +763,7 @@ whychoose: [
                                                 <h4 className=" fw-semibold lead whitt text-dark">Address</h4>
                                                 <p className="whit text-white ">
                                                     <i> Morya Cab<br />
-                                                    Flat no. 306 Aasra Crystal Hights, Near Union Bank Dehu Phata Alandi Devachi Pune, Maharashtra 412105
+                                                    Gat no. 763 Jai Ganesh Niwas Flat no. 1 Lokhande Wasti Chimbali Pune, Maharashtra 412105
                                                     </i>
                                                 </p>
                                             </div>

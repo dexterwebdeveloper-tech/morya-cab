@@ -155,13 +155,13 @@ const Footer = () => {
                 </div>
                 <div className="details">
                   <p>
-                    <a href="tel:+919371304510" className="info-box_link text-white">
-                      +91 9371304510
+                    <a href="tel:+919359401610" className="info-box_link text-white">
+                      +91 9359401610
                     </a>
                   </p>
                   <p>
-                    <a href="tel:+918379975860" className="info-box_link text-white">
-                      +91 8379975860
+                    <a href="tel:+919822344091" className="info-box_link text-white">
+                      +91 9822344091
                     </a>
                   </p>
                 </div>
@@ -187,7 +187,9 @@ const Footer = () => {
                   <img src="/img/icon/location-dot.svg" alt="img" />
                 </div>
                 <div className="details">
-                  <p className='text-white'>Flat no. 306 Aasra Crystal Hights, Near Union Bank Dehu Phata Alandi Devachi Pune, Maharashtra 412105</p>
+                  <p className='text-white'>
+                    <h6>Morya Cab</h6>
+                    Gat no. 763 Jai Ganesh Niwas Flat no. 1 Lokhande Wasti Chimbali Pune, Maharashtra 412105</p>
                 </div>
               </div>
 

@@ -6,7 +6,7 @@ const PrivacyPolicy = () => {
   return (
     <div>
       <Helmet>
-              <title>Pune to Mumbai cab | Morya Cab | Call: +91 9371304510</title>
+              <title>Pune to Mumbai cab | Morya Cab | Call: +91 9359401610</title>
               <meta
                 name="description"
                 content="Book your reliable Pune to Mumbai taxi service with Morya Cabs. We offer one-way, round trip, luxury taxis, and shared cabs for your comfortable journey."
@@ -131,7 +131,7 @@ const PrivacyPolicy = () => {
             <h2>Contact Us</h2>
             <p>For any privacy concerns, reach out to us:</p>
             <ul>
-              <li><b>Phone:</b> <a href="tel:+919371304510">+91 9371304510</a></li>
+              <li><b>Phone:</b> <a href="tel:+919359401610">+91 9359401610</a></li>
               <li><b>Email:</b> <a href="mailto:booking@moryacab.com">booking@moryacab.com</a></li>
             </ul>
           </div>
