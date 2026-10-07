@@ -277,8 +277,8 @@ whychoose: [
     const contactData = {
         heading: `${cardData.keyword} Contact Number`,
         contactNumbers: [
-            "+91 9359401610",
-            "+91 9822344091",
+            "+91 9371304510",
+            "+91 8379975860",
 
 
 
@@ -440,7 +440,7 @@ whychoose: [
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
         "name": "Morya Cab Services",
-        "description": "Book your Pune Airport to Mumbai taxi with Morya Cab. Affordable, reliable one-way taxis, drop-off services, and more! Call +91 9359401610 for bookings!",
+        "description": "Book your Pune Airport to Mumbai taxi with Morya Cab. Affordable, reliable one-way taxis, drop-off services, and more! Call +91 9371304510 for bookings!",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Office No. 5, First Floor, Sunshine Complex, Near ABC Chowk, Pune",
@@ -449,7 +449,7 @@ whychoose: [
           "postalCode": "411014",
           "addressCountry": "IN"
         },
-        "telephone": "+91-9359401610",
+        "telephone": "+91-9371304510",
         "url": "https://moryacab.com/",
         "logo": "https://moryacab.com/img/logo.jpg",
         "image": [
@@ -512,10 +512,10 @@ whychoose: [
         <div>
             <UsePageTracking/>
  <Helmet>
-        <title>Pune Airport to Mumbai Taxi | Call: +91 9359401610</title>
+        <title>Pune Airport to Mumbai Taxi | Call: +91 9371304510</title>
         <meta
           name="description"
-          content="Book your Pune Airport to Mumbai taxi with Morya Cab. Affordable, reliable one-way taxis, drop-off services, and more! Call +91 9359401610."
+          content="Book your Pune Airport to Mumbai taxi with Morya Cab. Affordable, reliable one-way taxis, drop-off services, and more! Call +91 9371304510."
         />
         <meta
           name="keywords"
@@ -741,8 +741,8 @@ whychoose: [
                                             <h4 className=" lead fw-semibold whitt text-dark">Phone Numbers</h4>
                                             <i className="bi bi-telephone-fill fs-1 mb-2"></i>
                                             <div className=''>
-                                                <a href="tel:+91 9359401610" className="d-block  text-white">+91 9359401610</a>
-                                                <a href="tel:+91 9822344091" className="d-block  text-white">+91 9822344091</a>
+                                                <a href="tel:+91 9371304510" className="d-block  text-white">+91 9371304510</a>
+                                                <a href="tel:+91 8379975860" className="d-block  text-white">+91 8379975860</a>
 
 
                                             </div>

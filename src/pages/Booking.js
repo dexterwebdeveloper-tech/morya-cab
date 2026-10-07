@@ -61,7 +61,7 @@ const tourData = [
 
 const Booking = () => {
   const handleBookNow = (tourTitle) => {
-    const phoneNumber = "+919822344091";
+    const phoneNumber = "+918379975860";
     const message = `I want to Book ${tourTitle} With Morya Cab. Request you Please Send More Details or Call Me. Thank you. `;
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');

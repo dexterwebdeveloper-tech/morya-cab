@@ -3,12 +3,12 @@ import React from 'react';
 const BusRatesTable = () => {
   const ratesData = [
     
-    { seater: "SWIFT DESIRE", mumbai: "4+1", mahabaleshwar: "12", specialPermitNumber: "919822344091", driver: "Extra", parking: "Extra" },
-    { seater: "ERITGA", mumbai: "6+1", mahabaleshwar: "15", specialPermitNumber: "919822344091", driver: "Extra", parking: "Extra" },
-    { seater: "INNOVA", mumbai: "6+1", mahabaleshwar: "18", specialPermitNumber: "919822344091", driver: "Extra", parking: "Extra" },
-    { seater: "INNOVA CRYSTA", mumbai: "6+1", mahabaleshwar: "22", specialPermitNumber: "919822344091", driver: "Extra", parking: "Extra" },
-    { seater: "KIA Carens", mumbai: "6+1/7+1", mahabaleshwar: "17/KM & 18/KM", specialPermitNumber: "919822344091", driver: "Extra", parking: "Extra" },
-    { seater: "TEMPO TRAVELLER", mumbai: "13/17 SEATER", mahabaleshwar: "ON CALL", specialPermitNumber: "919822344091", driver: "Extra", parking: "Extra" },
+    { seater: "SWIFT DESIRE", mumbai: "4+1", mahabaleshwar: "12", specialPermitNumber: "918379975860", driver: "Extra", parking: "Extra" },
+    { seater: "ERITGA", mumbai: "6+1", mahabaleshwar: "15", specialPermitNumber: "918379975860", driver: "Extra", parking: "Extra" },
+    { seater: "INNOVA", mumbai: "6+1", mahabaleshwar: "18", specialPermitNumber: "918379975860", driver: "Extra", parking: "Extra" },
+    { seater: "INNOVA CRYSTA", mumbai: "6+1", mahabaleshwar: "22", specialPermitNumber: "918379975860", driver: "Extra", parking: "Extra" },
+    { seater: "KIA Carens", mumbai: "6+1/7+1", mahabaleshwar: "17/KM & 18/KM", specialPermitNumber: "918379975860", driver: "Extra", parking: "Extra" },
+    { seater: "TEMPO TRAVELLER", mumbai: "13/17 SEATER", mahabaleshwar: "ON CALL", specialPermitNumber: "918379975860", driver: "Extra", parking: "Extra" },
 
   ];
 

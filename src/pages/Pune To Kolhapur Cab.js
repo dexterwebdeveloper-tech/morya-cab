@@ -133,7 +133,7 @@ function Punetokohlapurcab() {
     ["Pune to Kolhapur Sedan and SUV Cabs", "-Fastest Pune to Kolhapur Cab Service"],
     ["Verified Drivers Pune to Kolhapur", "-Comfortable Long-Distance Cab Pune to Kolhapur"],
     ["Affordable Taxi Pune to Kolhapur", "-Pune to Kolhapur City Tour Cab"],
-    ["Safe Travel Cab Pune to Kolhapur", "-Call Morya Cab at +91 9359401610"]
+    ["Safe Travel Cab Pune to Kolhapur", "-Call Morya Cab at +91 9371304510"]
   ],
 
 
@@ -276,8 +276,8 @@ const testimonialData = [
     const contactData = {
         heading: `${cardData.keyword} Contact Number`,
         contactNumbers: [
-            "+91 9359401610",
-            "+91 9822344091",
+            "+91 9371304510",
+            "+91 8379975860",
 
 
 
@@ -703,8 +703,8 @@ const productSchema = {
                                             <h4 className=" lead fw-semibold whitt text-dark">Phone Numbers</h4>
                                             <i className="bi bi-telephone-fill fs-1 mb-2"></i>
                                             <div className=''>
-                                                <a href="tel:+91 9359401610" className="d-block  text-white">+91 9359401610</a>
-                                                <a href="tel:+91 9822344091" className="d-block  text-white">+91 9822344091</a>
+                                                <a href="tel:+91 9371304510" className="d-block  text-white">+91 9371304510</a>
+                                                <a href="tel:+91 8379975860" className="d-block  text-white">+91 8379975860</a>
 
 
                                             </div>

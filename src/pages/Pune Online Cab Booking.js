@@ -294,8 +294,8 @@ whychoose: [
     const contactData = {
         heading: `${cardData.keyword} Contact Number`,
         contactNumbers: [
-            "+91 9359401610",
-            "+91 9822344091",
+            "+91 9371304510",
+            "+91 8379975860",
 
 
 
@@ -467,7 +467,7 @@ whychoose: [
           "postalCode": "411014",
           "addressCountry": "IN"
         },
-        "telephone": "+91-9359401610",
+        "telephone": "+91-9371304510",
         "url": "https://moryacab.com/pune-online-cab-booking",
         "logo": "https://moryacab.com/img/logo.jpg",
         "image": [
@@ -529,7 +529,7 @@ whychoose: [
         <div>
             <UsePageTracking/>
 <Helmet>
-  <title>Pune Online Cab Booking | Instant Taxi & Ride Reservations | Call: +91 9359401610</title>
+  <title>Pune Online Cab Booking | Instant Taxi & Ride Reservations | Call: +91 9371304510</title>
   <meta
     name="description"
     content="Book your taxi online in Pune with instant booking options for rides to various destinations like Pune to Shirdi, Mumbai to Pune, and more. Quick and seamless booking process."
@@ -757,8 +757,8 @@ whychoose: [
                                             <h4 className=" lead fw-semibold whitt text-dark">Phone Numbers</h4>
                                             <i className="bi bi-telephone-fill fs-1 mb-2"></i>
                                             <div className=''>
-                                                <a href="tel:+91 9359401610" className="d-block  text-white">+91 9359401610</a>
-                                                <a href="tel:+91 9822344091" className="d-block  text-white">+91 9822344091</a>
+                                                <a href="tel:+91 9371304510" className="d-block  text-white">+91 9371304510</a>
+                                                <a href="tel:+91 8379975860" className="d-block  text-white">+91 8379975860</a>
 
 
                                             </div>

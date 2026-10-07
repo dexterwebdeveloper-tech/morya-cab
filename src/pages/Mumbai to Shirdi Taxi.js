@@ -137,7 +137,7 @@ function Mumbaitoshirditaxi() {
     },
     {
         "name": "Mumbai to Shirdi Taxi Contact Information",
-        "description": "For fast and reliable Mumbai to Shirdi taxi services, contact Morya Cab at +91 9359401610. We guarantee a comfortable, safe, and affordable ride every time. Book your Mumbai to Shirdi taxi today!"
+        "description": "For fast and reliable Mumbai to Shirdi taxi services, contact Morya Cab at +91 9371304510. We guarantee a comfortable, safe, and affordable ride every time. Book your Mumbai to Shirdi taxi today!"
     }
 ],
 
@@ -281,8 +281,8 @@ whychoose: [
     const contactData = {
         heading: `${cardData.keyword} Contact Number`,
         contactNumbers: [
-            "+91 9359401610",
-            "+91 9822344091",
+            "+91 9371304510",
+            "+91 8379975860",
 
 
 
@@ -444,7 +444,7 @@ whychoose: [
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
         "name": "Morya Cab Services",
-        "description": "Book your Mumbai to Shirdi taxi with Morya Cab. Affordable, reliable, and convenient one-way taxi services. Call +91 9359401610 for bookings!",
+        "description": "Book your Mumbai to Shirdi taxi with Morya Cab. Affordable, reliable, and convenient one-way taxi services. Call +91 9371304510 for bookings!",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Office No. 5, First Floor, Sunshine Complex, Near ABC Chowk, Pune",
@@ -453,7 +453,7 @@ whychoose: [
           "postalCode": "411014",
           "addressCountry": "IN"
         },
-        "telephone": "+91-9359401610",
+        "telephone": "+91-9371304510",
         "url": "https://moryacab.com/",
         "logo": "https://moryacab.com/img/logo.jpg",
         "image": [
@@ -515,10 +515,10 @@ whychoose: [
         <div>
             <UsePageTracking/>
  <Helmet>
-        <title>Mumbai to Shirdi Taxi | Affordable & Reliable Taxi Service | Call: +91 9359401610</title>
+        <title>Mumbai to Shirdi Taxi | Affordable & Reliable Taxi Service | Call: +91 9371304510</title>
         <meta
           name="description"
-          content="Book your Mumbai to Shirdi taxi with Morya Cab. Affordable, reliable, and convenient one-way taxi services. Call +91 9359401610."
+          content="Book your Mumbai to Shirdi taxi with Morya Cab. Affordable, reliable, and convenient one-way taxi services. Call +91 9371304510."
         />
         <meta name="keywords" content="mumbai to shirdi taxi, mumbai to shirdi cab service, taxi booking, affordable taxi service" />
         <meta property="og:title" content="Mumbai to Shirdi Taxi | Morya Cab Services" />
@@ -737,8 +737,8 @@ whychoose: [
                                             <h4 className=" lead fw-semibold whitt text-dark">Phone Numbers</h4>
                                             <i className="bi bi-telephone-fill fs-1 mb-2"></i>
                                             <div className=''>
-                                                <a href="tel:+91 9359401610" className="d-block  text-white">+91 9359401610</a>
-                                                <a href="tel:+91 9822344091" className="d-block  text-white">+91 9822344091</a>
+                                                <a href="tel:+91 9371304510" className="d-block  text-white">+91 9371304510</a>
+                                                <a href="tel:+91 8379975860" className="d-block  text-white">+91 8379975860</a>
 
 
                                             </div>

@@ -72,7 +72,7 @@ function Punetoshirditaxi() {
             },
             {
                 "name": "Cab Service in Alandi Pune Contact Number",
-                "description": "For bookings or inquiries regarding cab services in Alandi Pune, contact Morya Cabs at +91 9359401610. Our team is available to assist you with your travel needs."
+                "description": "For bookings or inquiries regarding cab services in Alandi Pune, contact Morya Cabs at +91 9371304510. Our team is available to assist you with your travel needs."
             },
             {
                 "name": "Alandi to Mumbai Cabs Service",
@@ -136,7 +136,7 @@ function Punetoshirditaxi() {
             },
             {
                 "name": "Contact Morya Cabs for Booking",
-                "description": "For bookings, contact Morya Cabs at +91 9359401610. We offer efficient, reliable, and professional services for all your travel needs, ensuring a smooth and comfortable journey every time."
+                "description": "For bookings, contact Morya Cabs at +91 9371304510. We offer efficient, reliable, and professional services for all your travel needs, ensuring a smooth and comfortable journey every time."
             }
         ],
 
@@ -274,8 +274,8 @@ function Punetoshirditaxi() {
     const contactData = {
         heading: `${cardData.keyword} Contact Number`,
         contactNumbers: [
-            "+91 9359401610",
-            "+91 9822344091",
+            "+91 9371304510",
+            "+91 8379975860",
 
 
 
@@ -448,7 +448,7 @@ function Punetoshirditaxi() {
           "postalCode": "411014",
           "addressCountry": "IN"
         },
-        "telephone": "+91-9359401610",
+        "telephone": "+91-9371304510",
         "url": "https://moryacab.com/pune-to-shirdi-taxi",
         "logo": "https://moryacab.com/img/logo.jpg",
         "image": [
@@ -510,7 +510,7 @@ function Punetoshirditaxi() {
         <div>
             <UsePageTracking/>
 <Helmet>
-        <title>Pune to Shirdi Taxi | Reliable and Affordable Taxi Service | Call: +91 9359401610</title>
+        <title>Pune to Shirdi Taxi | Reliable and Affordable Taxi Service | Call: +91 9371304510</title>
         <meta
           name="description"
           content="Book your reliable Pune to Shirdi taxi service with Morya Cabs. We offer one-way, round trip, luxury taxis, and shared cabs for your journey to Shirdi."
@@ -734,8 +734,8 @@ function Punetoshirditaxi() {
                                             <h4 className=" lead fw-semibold whitt text-dark">Phone Numbers</h4>
                                             <i className="bi bi-telephone-fill fs-1 mb-2"></i>
                                             <div className=''>
-                                                <a href="tel:+91 9359401610" className="d-block  text-white">+91 9359401610</a>
-                                                <a href="tel:+91 9822344091" className="d-block  text-white">+91 9822344091</a>
+                                                <a href="tel:+91 9371304510" className="d-block  text-white">+91 9371304510</a>
+                                                <a href="tel:+91 8379975860" className="d-block  text-white">+91 8379975860</a>
 
 
                                             </div>

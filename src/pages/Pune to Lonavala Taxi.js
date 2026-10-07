@@ -128,7 +128,7 @@ function Punetolonavalataxi() {
     },
     {
         "name": "Pune to Lonavala Cab Contact Information",
-        "description": "Contact Morya Cab at +91 9359401610 for prompt and efficient Pune to Lonavala cab services. We ensure a smooth and enjoyable ride for all our customers, making your journey comfortable and stress-free. Book your Pune to Lonavala cab today!"
+        "description": "Contact Morya Cab at +91 9371304510 for prompt and efficient Pune to Lonavala cab services. We ensure a smooth and enjoyable ride for all our customers, making your journey comfortable and stress-free. Book your Pune to Lonavala cab today!"
     }
 ],
 
@@ -267,8 +267,8 @@ whychoose: [
     const contactData = {
         heading: `${cardData.keyword} Contact Number`,
         contactNumbers: [
-            "+91 9359401610",
-            "+91 9822344091",
+            "+91 9371304510",
+            "+91 8379975860",
 
 
         ],
@@ -439,7 +439,7 @@ whychoose: [
           "postalCode": "411014",
           "addressCountry": "IN"
         },
-        "telephone": "+91-9359401610",
+        "telephone": "+91-9371304510",
         "url": "https://moryacab.com/pune-to-lonavala-taxi",
         "logo": "https://moryacab.com/img/logo.jpg",
         "image": [
@@ -501,7 +501,7 @@ whychoose: [
         <div>
         <UsePageTracking/>
 <Helmet>
-        <title>Pune to Lonavala Taxi | Reliable Cab Service | Call: +91 9359401610</title>
+        <title>Pune to Lonavala Taxi | Reliable Cab Service | Call: +91 9371304510</title>
         <meta
           name="description"
           content="Book reliable and affordable Pune to Lonavala taxi service. Choose from one-way, round trip, private, luxury, or shared taxis. Book your ride today!"
@@ -723,8 +723,8 @@ whychoose: [
                                             <h4 className=" lead fw-semibold whitt text-dark">Phone Numbers</h4>
                                             <i className="bi bi-telephone-fill fs-1 mb-2"></i>
                                             <div className=''>
-                                                <a href="tel:+91 9359401610" className="d-block  text-white">+91 9359401610</a>
-                                                <a href="tel:+91 9822344091" className="d-block  text-white">+91 9822344091</a>
+                                                <a href="tel:+91 9371304510" className="d-block  text-white">+91 9371304510</a>
+                                                <a href="tel:+91 8379975860" className="d-block  text-white">+91 8379975860</a>
 
 
                                             </div>

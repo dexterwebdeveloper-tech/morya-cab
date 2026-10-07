@@ -17,7 +17,7 @@ const ContactButtons = () => {
     >
       
       <a 
-        href="tel:+919359401610" 
+        href="tel:+919371304510" 
         className="call-button" 
         style={{
           backgroundColor: '#F8911B', 
@@ -40,7 +40,7 @@ const ContactButtons = () => {
       </a>
 
       <a 
-        href="https://wa.me/+919822344091?text=Hello%20Morya%20Cabs%20Team%2C%0A%0AI%20am%20looking%20to%20book%20a%20cab%20or%20taxi%20for%20my%20trip.%20Kindly%20share%20the%20available%20options%20and%20fare%20details.%20Looking%20forward%20to%20your%20response.%20Thank You!"
+        href="https://wa.me/+918379975860?text=Hello%20Morya%20Cabs%20Team%2C%0A%0AI%20am%20looking%20to%20book%20a%20cab%20or%20taxi%20for%20my%20trip.%20Kindly%20share%20the%20available%20options%20and%20fare%20details.%20Looking%20forward%20to%20your%20response.%20Thank You!"
 
 
         className="whatsapp-button"

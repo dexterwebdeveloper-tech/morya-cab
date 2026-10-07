@@ -168,7 +168,7 @@ function Punetonagpurcabs() {
     },
     {
       "name": "Pune to Nagpur Contact Information",
-      "description": "For bookings or inquiries about Pune to Nagpur Cab services, contact Morya Cab at +91 9359401610. We ensure timely, comfortable, and affordable transportation for all your travel needs!"
+      "description": "For bookings or inquiries about Pune to Nagpur Cab services, contact Morya Cab at +91 9371304510. We ensure timely, comfortable, and affordable transportation for all your travel needs!"
     }
   ],
 
@@ -334,8 +334,8 @@ whychoose: [
     const contactData = {
         heading: `${cardData.keyword} Contact Number`,
         contactNumbers: [
-            "+91 9359401610",
-            "+91 9822344091",
+            "+91 9371304510",
+            "+91 8379975860",
 
 
 
@@ -508,7 +508,7 @@ whychoose: [
           "postalCode": "411014",
           "addressCountry": "IN"
         },
-        "telephone": "+91-9359401610",
+        "telephone": "+91-9371304510",
         "url": "https://moryacab.com/pune-to-nagpur-cabs",
         "logo": "https://moryacab.com/img/logo.jpg",
         "image": [
@@ -569,7 +569,7 @@ whychoose: [
         <div>
             <UsePageTracking/>
 <Helmet>
-  <title>Pune to Nagpur Cabs | Affordable and Comfortable Taxi Service | Call: +91 9359401610</title>
+  <title>Pune to Nagpur Cabs | Affordable and Comfortable Taxi Service | Call: +91 9371304510</title>
   <meta
     name="description"
     content="Book affordable and reliable taxis or car rentals from Pune to Nagpur. We offer one-way, round-trip, luxury cabs, and more for a comfortable and convenient journey."
@@ -797,8 +797,8 @@ whychoose: [
                                             <h4 className=" lead fw-semibold whitt text-dark">Phone Numbers</h4>
                                             <i className="bi bi-telephone-fill fs-1 mb-2"></i>
                                             <div className=''>
-                                                <a href="tel:+91 9359401610" className="d-block  text-white">+91 9359401610</a>
-                                                <a href="tel:+91 9822344091" className="d-block  text-white">+91 9822344091</a>
+                                                <a href="tel:+91 9371304510" className="d-block  text-white">+91 9371304510</a>
+                                                <a href="tel:+91 8379975860" className="d-block  text-white">+91 8379975860</a>
 
 
                                             </div>

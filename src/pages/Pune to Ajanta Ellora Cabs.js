@@ -116,7 +116,7 @@ function Punetoanjamtaelloracabs() {
     },
     {
       "name": "Contact Information for Ajanta Ellora Tour Booking",
-      "description": "To book your Pune to Ajanta Ellora trip or inquire about our services, contact Morya Cab at +91 9359401610. Whether you're looking for a sedan, an SUV, a luxury vehicle, or a large group transport option, we have the right cab for you. Experience a smooth and comfortable journey to one of India’s most fascinating cultural treasures!"
+      "description": "To book your Pune to Ajanta Ellora trip or inquire about our services, contact Morya Cab at +91 9371304510. Whether you're looking for a sedan, an SUV, a luxury vehicle, or a large group transport option, we have the right cab for you. Experience a smooth and comfortable journey to one of India’s most fascinating cultural treasures!"
     }
   ],
 
@@ -278,8 +278,8 @@ whychoose: [
     const contactData = {
         heading: `${cardData.keyword} Contact Number`,
         contactNumbers: [
-            "+91 9359401610",
-            "+91 9822344091",
+            "+91 9371304510",
+            "+91 8379975860",
 
 
 
@@ -451,7 +451,7 @@ whychoose: [
           "postalCode": "411014",
           "addressCountry": "IN"
         },
-        "telephone": "+91-9359401610",
+        "telephone": "+91-9371304510",
         "url": "https://moryacab.com/pune-to-ajanta-ellora-cabs",
         "logo": "https://moryacab.com/img/logo.jpg",
         "image": [
@@ -513,7 +513,7 @@ whychoose: [
         <div>
             <UsePageTracking/>
 <Helmet>
-  <title>Pune to Ajanta Ellora Cabs | Affordable & Comfortable Travel | Call: +91 9359401610</title>
+  <title>Pune to Ajanta Ellora Cabs | Affordable & Comfortable Travel | Call: +91 9371304510</title>
   <meta
     name="description"
     content="Book a comfortable cab or car rental for your trip to Ajanta Ellora Caves from Pune. Choose from one-way, round-trip, luxury taxis, and more for a hassle-free journey."
@@ -741,8 +741,8 @@ whychoose: [
                                             <h4 className=" lead fw-semibold whitt text-dark">Phone Numbers</h4>
                                             <i className="bi bi-telephone-fill fs-1 mb-2"></i>
                                             <div className=''>
-                                                <a href="tel:+91 9359401610" className="d-block  text-white">+91 9359401610</a>
-                                                <a href="tel:+91 9822344091" className="d-block  text-white">+91 9822344091</a>
+                                                <a href="tel:+91 9371304510" className="d-block  text-white">+91 9371304510</a>
+                                                <a href="tel:+91 8379975860" className="d-block  text-white">+91 8379975860</a>
 
 
                                             </div>

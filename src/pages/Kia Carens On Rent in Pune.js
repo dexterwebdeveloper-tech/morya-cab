@@ -71,7 +71,7 @@ function KIacarenceonrentinpune() {
     },
     {
       "name": "Kia Carens on Rent in Pune Near Me Contact Number",
-      "description": "For booking a Kia Carens on rent in Pune, you can contact Morya Cab at +91 9359401610. We are here to assist you with your rental needs for a comfortable and smooth journey."
+      "description": "For booking a Kia Carens on rent in Pune, you can contact Morya Cab at +91 9371304510. We are here to assist you with your rental needs for a comfortable and smooth journey."
     },
     {
       "name": "Kia Carens for Rent in Pune",
@@ -279,8 +279,8 @@ whychoose: [
     const contactData = {
         heading: `${cardData.keyword} Contact Number`,
         contactNumbers: [
-            "+91 9359401610",
-            "+91 9822344091",
+            "+91 9371304510",
+            "+91 8379975860",
 
 
 
@@ -484,7 +484,7 @@ whychoose: [
         <div>
             <UsePageTracking/>
 <Helmet>
-  <title>Kia Carens on Rent in Pune | Affordable Luxury Car Hire for Local & Outstation Trips | Call: +91 9359401610</title>
+  <title>Kia Carens on Rent in Pune | Affordable Luxury Car Hire for Local & Outstation Trips | Call: +91 9371304510</title>
   <meta
     name="description"
     content="Rent a Kia Carens in Pune for local and outstation trips. Affordable luxury rental service for family vacations, corporate bookings, and airport transfers."
@@ -712,8 +712,8 @@ whychoose: [
                                             <h4 className=" lead fw-semibold whitt text-dark">Phone Numbers</h4>
                                             <i className="bi bi-telephone-fill fs-1 mb-2"></i>
                                             <div className=''>
-                                                <a href="tel:+91 9359401610" className="d-block  text-white">+91 9359401610</a>
-                                                <a href="tel:+91 9822344091" className="d-block  text-white">+91 9822344091</a>
+                                                <a href="tel:+91 9371304510" className="d-block  text-white">+91 9371304510</a>
+                                                <a href="tel:+91 8379975860" className="d-block  text-white">+91 8379975860</a>
 
 
                                             </div>
